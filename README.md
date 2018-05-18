@@ -10,7 +10,7 @@
 
 1. [¿Qué es una dirección IPv4?](b2/ipv4-1)
 1. [Dirección IP: bits, NDP](b2/ipv4-2)
-1. [Máscara de red. Notación CIDR](ipv4-3)
+1. [Máscara de red. Notación CIDR](b2/ipv4-3)
 1. [Direcciones IP reservadas](b2/reservadas)
 1. [Direcciones IP públicas y privadas](b2/pub-priv)
 1. [Enrutamiento básico. Puerta de enlace](b2/enrutamiento)
